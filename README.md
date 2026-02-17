@@ -33,3 +33,6 @@ This game is currently in **early access**, which means new features, improvemen
 or download the folder or everything inside it and put everything
 into VS Code with Pygame installed and launch the program.
 -----------------------------------------------------------------
+
+ps : 70% of the project was done using artificial intelligence,
+so the code is quite messy; the game was created for an experiment that aims to see what the limits of AI are and how far it can go.
