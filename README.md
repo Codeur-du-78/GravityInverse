@@ -32,4 +32,4 @@ This game is currently in **early access**, which means new features, improvemen
  🎮To play, download GravityInverse.exe and launch it,
 or download the folder or everything inside it and put everything
 into VS Code with Pygame installed and launch the program.
------------------------------ 🎮-------------------------------
+-----------------------------------------------------------------
