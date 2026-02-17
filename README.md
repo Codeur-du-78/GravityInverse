@@ -1,6 +1,6 @@
 # 🎮 Cube Game — Early Access
 
-## 🇬🇧 English Description
+##English Description
 
 **Cube Game** is a fast-paced arcade experience where you control a cube and try to survive as long as possible while avoiding obstacles. The game focuses on reflexes, timing, and precision, offering simple mechanics that are easy to learn but challenging to master.
 
